@@ -1,0 +1,15 @@
+:root {
+    --primary-blue: #0053F8;
+}
+
+.active-nav-link {
+    color: var(--primary-blue);
+}
+
+.primary-blue-text{
+    color: var(--primary-blue);
+}
+
+/* .nd-hero{
+    background-color: #C0FDFB;
+} */
